@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there, I am using Github!
+You know, they say my life is like a Roger coaster — full of ups, downs, and lots of unexpected twists! 🎢
 
 <!--
 **rogermg26/rogermg26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
